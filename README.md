@@ -1,4 +1,4 @@
-# 1.4.7: Goblin Eggs and more Latest
+1.4.7: Goblin Eggs and more Latest
 Info on the mod's features
 /bn toggle: Starts and stops the bazaar helper.
 /bn dump: Dumps the buy orders that are stored in .minecraft/logs/latest.log
